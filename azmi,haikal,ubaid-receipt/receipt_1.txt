@@ -1,0 +1,5 @@
+Receipt Number: 1
+Dispenser: 0
+Fuel Type: ron95
+Litres: 98.52
+Total Price: RM200.00
